@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f7ecde;
+}
+
+h1 {
+  position: relative;
+  color: #352e28;
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 60px;
+  font-family: "Pacifico", cursive;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: 500;
+  font-family: "Righteous", sans-serif;
+  background: linear-gradient(to right, #3fa55c, #b1ac4a);
+  background-clip: text;
+  color: transparent;
+}
